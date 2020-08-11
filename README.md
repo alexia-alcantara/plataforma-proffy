@@ -14,8 +14,6 @@
 
 - Sobre
 - Tecnologias Utilizadas
-- Web Screenshots
-- Mobile Screenshots
 
 ## :bookmark: Sobre
 
