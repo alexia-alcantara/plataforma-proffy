@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="./images/logo-proffy.png" alt="Proffy">
+  <img src="/images/logo-proffy.png" alt="Proffy">
 
   Sua plataforma de estudos online.
 </h3>
@@ -31,13 +31,13 @@ Tecnologias usadas
 
   - [VSCode](https://code.visualstudio.com/)
   - [Node ](https://nodejs.org/en/)
-  - [Chrome] ou [Edge]
+  - Chrome ou Edge
 
 ### Front-End
 
-  - [HTML]
-  - [CSS]
-  - [JavaScript]
+  - HTML
+  - CSS
+  - JavaScript
 
 ### Back-End
 
