@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="/images/logo-proffy.png" alt="Proffy">
+  <img src="/logo-proffy.png" alt="Proffy">
 
   Sua plataforma de estudos online.
 </h3>
